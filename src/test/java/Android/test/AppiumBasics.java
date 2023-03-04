@@ -9,7 +9,8 @@ public class AppiumBasics extends BaseClass{
 	public void AppiumTest() throws MalformedURLException
 	{
 		
-		
+		System.out.println("test");
+		System.out.println("test");
 		
 	}
 	
